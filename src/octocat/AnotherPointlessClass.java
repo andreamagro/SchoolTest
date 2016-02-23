@@ -9,14 +9,6 @@ package octocat;
  *
  * @author magro3026
  */
-public class Octocat {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        System.out.println("Hello World");
-        System.out.println("Hello");
-    }
+public class AnotherPointlessClass {
     
 }
